@@ -1,0 +1,1 @@
+([('main', '/Users/akshaybapat/my_kivy_project1/dist/main', 'EXECUTABLE')],)
